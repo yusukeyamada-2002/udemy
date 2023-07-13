@@ -1,3 +1,4 @@
 別セーブデータ
 
-git pra 
+git pra
+git merge test
